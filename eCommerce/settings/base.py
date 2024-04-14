@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # external apps
-    'rest_framework', 
+    'rest_framework',
+    'eCommerce.product',
 ]
 
 MIDDLEWARE = [
